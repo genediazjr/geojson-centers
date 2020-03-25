@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "dependencies": {
+    "@turf/turf": "5.x",
+    "@blumoon/eslint-config-blumoon": "*"
+  }
+}
